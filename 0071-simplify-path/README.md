@@ -89,3 +89,4 @@
 	<li><code>path</code> consists of English letters, digits, period <code>&#39;.&#39;</code>, slash <code>&#39;/&#39;</code> or <code>&#39;_&#39;</code>.</li>
 	<li><code>path</code> is a valid absolute Unix path.</li>
 </ul>
+# Leetcode - 0071-simplify-path
