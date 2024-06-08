@@ -26,4 +26,4 @@
 </ul>
 
 <p>&nbsp;</p>
-<strong>Follow up:</strong> Could you do it in one pass?
+<strong>Follow up:</strong> Could you do it in one pass?# Leetcode - 0092-reverse-linked-list-ii
