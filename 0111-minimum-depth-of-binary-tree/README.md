@@ -26,3 +26,4 @@
 	<li>The number of nodes in the tree is in the range <code>[0, 10<sup>5</sup>]</code>.</li>
 	<li><code>-1000 &lt;= Node.val &lt;= 1000</code></li>
 </ul>
+# Leetcode - 0111-minimum-depth-of-binary-tree
