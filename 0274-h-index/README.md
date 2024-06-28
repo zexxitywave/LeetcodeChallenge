@@ -27,3 +27,4 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 	<li><code>1 &lt;= n &lt;= 5000</code></li>
 	<li><code>0 &lt;= citations[i] &lt;= 1000</code></li>
 </ul>
+# Leetcode - 0274-h-index
