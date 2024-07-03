@@ -25,3 +25,4 @@
 
 <p>&nbsp;</p>
 <p><strong>Note:</strong> This question is the same as 783: <a href="https://leetcode.com/problems/minimum-distance-between-bst-nodes/" target="_blank">https://leetcode.com/problems/minimum-distance-between-bst-nodes/</a></p>
+# Leetcode - 0530-minimum-absolute-difference-in-bst
