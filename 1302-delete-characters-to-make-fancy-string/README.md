@@ -41,3 +41,4 @@ No three consecutive characters are equal, so return &quot;aabaa&quot;.
 	<li><code>1 &lt;= s.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>s</code> consists only of lowercase English letters.</li>
 </ul>
+# Leetcode - 1302-delete-characters-to-make-fancy-string
