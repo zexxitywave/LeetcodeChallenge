@@ -57,3 +57,4 @@ The sentence is <strong>not</strong> circular.</pre>
 	<li>The words in <code>sentence</code> are separated by a single space.</li>
 	<li>There are no leading or trailing spaces.</li>
 </ul>
+# Leetcode - 2580-circular-sentence
