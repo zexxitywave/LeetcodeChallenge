@@ -1,16 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashMap<Integer, Integer> uniqueNum = new HashMap<>();
-        int index = 0;
-
-        for(int i =0; i< nums.length; i++){
-            if(!uniqueNum.containsKey(nums[i])){
-                uniqueNum.put(nums[i],1);
-                nums[index]= nums[i];
-                index++;
-            }else{
-                uniqueNum.put(nums[i],uniqueNum.get(nums[i]+1));
+        int i = 0;
+        for(int j=1; j< nums.length; j++){
+            if(nums[i]<nums[j]){
+                int temp = nums[i+1];
+                nums[i+1] = nums[j];
+                nums[j] = temp;
+                i++;
             }
-        }return index;
+        }
+        return i+1;
     }
 }
