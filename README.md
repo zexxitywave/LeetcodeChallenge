@@ -6,6 +6,7 @@ My practice for DSA
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -17,4 +18,8 @@ My practice for DSA
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
