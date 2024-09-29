@@ -31,4 +31,8 @@ My practice for DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
