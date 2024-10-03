@@ -23,9 +23,11 @@ My practice for DSA
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 ## Dynamic Programming
 |  |
@@ -44,4 +46,8 @@ My practice for DSA
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
