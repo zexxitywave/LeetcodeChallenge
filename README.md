@@ -10,6 +10,7 @@ My practice for DSA
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
+| [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,11 +21,13 @@ My practice for DSA
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -40,6 +43,7 @@ My practice for DSA
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -52,4 +56,12 @@ My practice for DSA
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
