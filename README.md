@@ -37,12 +37,14 @@ My practice for DSA
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 ## Linked List
 |  |
@@ -66,4 +68,8 @@ My practice for DSA
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
