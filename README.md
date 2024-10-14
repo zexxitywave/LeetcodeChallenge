@@ -13,6 +13,7 @@ My practice for DSA
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +25,7 @@ My practice for DSA
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +84,8 @@ My practice for DSA
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
