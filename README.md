@@ -14,6 +14,7 @@ My practice for DSA
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ My practice for DSA
 | [0001-two-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ My practice for DSA
 | [0009-palindrome-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
 | ------- |
@@ -88,4 +91,12 @@ My practice for DSA
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
