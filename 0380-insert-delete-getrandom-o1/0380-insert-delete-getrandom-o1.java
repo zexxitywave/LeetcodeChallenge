@@ -1,41 +1,50 @@
-class RandomizedSet {
+import java.util.*;
 
-    private ArrayList<Integer> list; 
-    private HashMap<Integer, Integer> map; 
-    private Random rand; 
+class RandomizedSet {
+    private Map<Integer, Integer> map;  // Maps element value -> its index in the list
+    private List<Integer> list;         // Stores the elements
+    private Random random;              // Random generator for getRandom()
 
     public RandomizedSet() {
-        list = new ArrayList<>();
         map = new HashMap<>();
-        rand = new Random();
+        list = new ArrayList<>();
+        random = new Random();
     }
     
+    // Inserts the element into the set if it's not present
     public boolean insert(int val) {
         if (map.containsKey(val)) {
-            return false; 
+            return false; // Element is already present
         }
-        list.add(val); 
-        map.put(val, list.size() - 1); 
+        // Add the element to the list and map
+        map.put(val, list.size());
+        list.add(val);
         return true;
     }
     
+    // Removes the element from the set if it exists
     public boolean remove(int val) {
         if (!map.containsKey(val)) {
-            return false; 
+            return false; // Element not found
         }
-        int index = map.get(val); 
-        int lastElement = list.get(list.size() - 1); 
+        int index = map.get(val);
+        int lastElement = list.get(list.size() - 1);
 
+        // Move the last element to the position of the element to delete
         list.set(index, lastElement);
-        map.put(lastElement, index); 
+        map.put(lastElement, index);
 
+        // Remove the last element
         list.remove(list.size() - 1);
-        map.remove(val); 
+        map.remove(val);
+
         return true;
     }
     
+    // Returns a random element from the set
     public int getRandom() {
-        return list.get(rand.nextInt(list.size()));
+        int randomIndex = random.nextInt(list.size());
+        return list.get(randomIndex);
     }
 }
 
