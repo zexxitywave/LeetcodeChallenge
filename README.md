@@ -1,5 +1,4 @@
 # LeetcodeChallenge
-My practice for DSA
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
