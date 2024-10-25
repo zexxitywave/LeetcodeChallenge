@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
@@ -33,6 +34,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
