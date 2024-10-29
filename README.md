@@ -9,6 +9,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
@@ -57,6 +58,7 @@
 | [0002-add-two-numbers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
@@ -118,6 +120,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
