@@ -19,6 +19,7 @@
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,8 +123,10 @@
 | [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
