@@ -50,6 +50,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Dynamic Programming
 |  |
 | ------- |
