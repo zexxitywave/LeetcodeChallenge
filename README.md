@@ -53,6 +53,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [2580-circular-sentence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2580-circular-sentence) |
 ## Dynamic Programming
 |  |
 | ------- |
