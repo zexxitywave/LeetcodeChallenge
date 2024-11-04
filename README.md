@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
@@ -32,6 +33,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
