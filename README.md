@@ -16,6 +16,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0228-summary-ranges) |
@@ -48,6 +49,7 @@
 | [0036-valid-sudoku](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -154,4 +156,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0812-rotate-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
