@@ -61,6 +61,7 @@
 | [0008-string-to-integer-atoi](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0071-simplify-path) |
 | [0812-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2580-circular-sentence) |
@@ -160,4 +161,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
