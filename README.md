@@ -19,6 +19,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0228-summary-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
@@ -83,6 +84,7 @@
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
@@ -166,5 +168,6 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
