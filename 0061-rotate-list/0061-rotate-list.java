@@ -12,18 +12,15 @@ class Solution {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null || head.next == null || k == 0) return head;
         
-        // Step 1: Find the length of the list
         ListNode current = head;
-        int length = 1;  // Start at 1 to count the head node
+        int length = 1; 
         while (current.next != null) {
             current = current.next;
             length++;
         }
         
-        // Step 2: Connect the last node to the head to form a circular list
-        current.next = head;
+            current.next = head;
         
-        // Step 3: Calculate the new tail position and new head position
         k = k % length;
         int newTailPos = length - k - 1;
         
@@ -32,7 +29,6 @@ class Solution {
             newTail = newTail.next;
         }
         
-        // Step 4: Set the new head and break the cycle
         ListNode newHead = newTail.next;
         newTail.next = null;
         
