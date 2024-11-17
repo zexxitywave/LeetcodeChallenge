@@ -15,24 +15,18 @@
  */
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return checkHeight(root) != -1;
+        if(root == null) return true;
+
+        int left = getMaxSubTreeHeight(root.left);
+        int right = getMaxSubTreeHeight(root.right);
+
+        return Math.abs(left- right)<=1 && isBalanced(root.left) && isBalanced(root.right);
     }
-
-    private int checkHeight(TreeNode node) {
-        if (node == null) {
-            return 0; // Base case: height of null node is 0
+    
+    private int getMaxSubTreeHeight(TreeNode node){
+        if(node == null) return 0;
+        else{
+            return 1 + Math.max(getMaxSubTreeHeight(node.left), getMaxSubTreeHeight(node.right));
         }
-
-        int leftHeight = checkHeight(node.left); // Check left subtree
-        if (leftHeight == -1) return -1; // Propagate unbalanced state
-
-        int rightHeight = checkHeight(node.right); // Check right subtree
-        if (rightHeight == -1) return -1; // Propagate unbalanced state
-
-        if (Math.abs(leftHeight - rightHeight) > 1) {
-            return -1; // Current node is unbalanced
-        }
-
-        return Math.max(leftHeight, rightHeight) + 1; // Return height of current node
     }
 }
