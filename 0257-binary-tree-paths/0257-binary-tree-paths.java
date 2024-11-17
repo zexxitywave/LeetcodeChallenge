@@ -17,27 +17,28 @@ class Solution {
     public List<String> binaryTreePaths(TreeNode root) {
         List<String> paths = new LinkedList<>();
 
-        if(root == null){
-            return paths;
+        if(root != null){
+            Paths(root, "", paths);
         }
         
-        if(root.left == null && root.right == null){
-            paths.add(String.valueOf(root.val));
-            return paths;
-        }
-
-        if(root.left != null){
-            for(String path: binaryTreePaths(root.left)){
-                paths.add(root.val + "->" + path);
-            }
-        }
-
-        if(root.right != null){
-            for(String path: binaryTreePaths(root.right)){
-                paths.add(root.val + "->" + path);
-            }
-        }
+        
     return paths;
     }
 
+    public void Paths(TreeNode node, String path, List<String> paths ){
+
+        path += node.val;
+
+        if(node.left == null && node.right == null){
+            paths.add(path);
+        }
+
+        if(node.left != null){
+            Paths(node.left,path + "->", paths);  
+        }
+
+        if(node.right != null){
+            Paths(node.right,path + "->", paths);
+        }
+    }
 }
