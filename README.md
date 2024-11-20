@@ -102,6 +102,7 @@
 | [0002-add-two-numbers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0061-rotate-list) |
+| [0328-odd-even-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
 | ------- |
