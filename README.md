@@ -28,6 +28,7 @@
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -44,6 +45,7 @@
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Matrix
 |  |
 | ------- |
