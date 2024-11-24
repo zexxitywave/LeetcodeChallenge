@@ -57,6 +57,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -103,6 +104,7 @@
 | [0002-add-two-numbers](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
