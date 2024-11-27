@@ -110,6 +110,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0328-odd-even-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
