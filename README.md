@@ -62,6 +62,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -114,6 +115,7 @@
 | [0086-partition-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
@@ -155,6 +157,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -259,4 +262,8 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
