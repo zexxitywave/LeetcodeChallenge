@@ -41,12 +41,14 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -116,6 +118,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
@@ -149,6 +152,7 @@
 | [0053-maximum-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting Sort
 |  |
@@ -266,4 +270,8 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
