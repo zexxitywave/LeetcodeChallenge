@@ -14,34 +14,42 @@
  * }
  */
 class Solution {
-    int preorderIndex = 0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
+        Map<Integer, Integer> inOrderMap = new HashMap<>();
         
-        return tree(preorder, inorder, 0, inorder.length-1);
+        for (int i = 0; i < inorder.length; i++) {
+            inOrderMap.put(inorder[i], i);
+        }
+        
+        return buildSubTree(preorder, 0, preorder.length - 1, inorder, 0, inorder.length - 1, inOrderMap);
     }
-
-    private TreeNode tree(int[]preorder , int[]inorder , int inorderStart, int inorderEnd){
-        if(inorderStart > inorderEnd){
+    
+    private TreeNode buildSubTree(
+        int[] preorder, int preStart, int preEnd,
+        int[] inorder, int inStart, int inEnd,
+        Map<Integer, Integer> inOrderMap) {
+        
+        if (preStart > preEnd || inStart > inEnd) {
             return null;
         }
-
-        int rootValue = preorder[preorderIndex++];
-        TreeNode root = new TreeNode(rootValue);
-
-        int inorderIndex = findInorderIndex(inorder, rootValue, inorderStart, inorderEnd);
-
-        root.left = tree(preorder, inorder, inorderStart , inorderIndex -1);
-        root.right= tree(preorder, inorder, inorderIndex+1, inorderEnd);
-
+        
+        int rootVal = preorder[preStart];
+        TreeNode root = new TreeNode(rootVal);
+        
+        int rootIndexInOrder = inOrderMap.get(rootVal);
+        int leftSubtreeSize = rootIndexInOrder - inStart;
+        root.left = buildSubTree(
+            preorder, preStart + 1, preStart + leftSubtreeSize,
+            inorder, inStart, rootIndexInOrder - 1,
+            inOrderMap
+        );
+        
+        root.right = buildSubTree(
+            preorder, preStart + leftSubtreeSize + 1, preEnd,
+            inorder, rootIndexInOrder + 1, inEnd,
+            inOrderMap
+        );
+        
         return root;
-    }
-
-    private int findInorderIndex(int[]array, int value,int start, int end){
-        for(int i = start; i <= end; i++){
-            if(array[i]== value){
-                return i;
-            }
-        }
-        return -1;
     }
 }
