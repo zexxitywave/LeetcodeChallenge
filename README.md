@@ -43,6 +43,7 @@
 | [0086-partition-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## String
@@ -121,6 +123,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0328-odd-even-linked-list) |
 ## Recursion
 |  |
