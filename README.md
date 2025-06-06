@@ -30,6 +30,7 @@
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
@@ -48,6 +49,7 @@
 | [0148-sort-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 ## Hash Table
 |  |
@@ -142,12 +145,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -296,6 +301,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 ## Monotonic Stack
