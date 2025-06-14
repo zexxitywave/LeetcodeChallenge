@@ -122,6 +122,7 @@
 | [0224-basic-calculator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Linked List
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Matrix
 |  |
 | ------- |
