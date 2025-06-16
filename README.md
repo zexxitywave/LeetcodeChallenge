@@ -36,6 +36,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
 ## Two Pointers
 |  |
