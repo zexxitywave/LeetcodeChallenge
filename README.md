@@ -253,6 +253,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -265,6 +266,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -289,6 +291,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
