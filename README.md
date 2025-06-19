@@ -64,6 +64,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
+| [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
@@ -85,6 +86,7 @@
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## String
 |  |
@@ -100,6 +102,7 @@
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0812-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -171,6 +174,7 @@
 | ------- |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
 | ------- |
