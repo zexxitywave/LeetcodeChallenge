@@ -84,6 +84,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## String
 |  |
@@ -98,6 +99,7 @@
 | [0224-basic-calculator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0812-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0274-h-index) |
+| [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
