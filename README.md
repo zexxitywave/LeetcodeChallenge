@@ -35,6 +35,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
@@ -119,6 +120,7 @@
 | [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0118-pascals-triangle) |
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
+| [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Math
 |  |
@@ -231,6 +233,7 @@
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
+| [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
