@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -117,6 +118,7 @@
 | [0049-group-anagrams](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0344-reverse-string) |
@@ -259,6 +261,7 @@
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
@@ -310,6 +313,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -361,6 +365,7 @@
 | [0039-combination-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
 ## Queue
