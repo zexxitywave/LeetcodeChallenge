@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -215,6 +216,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
@@ -281,6 +283,7 @@
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
