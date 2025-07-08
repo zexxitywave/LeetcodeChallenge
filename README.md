@@ -33,6 +33,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0228-summary-ranges) |
@@ -206,6 +207,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
@@ -213,6 +215,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
@@ -260,6 +263,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 ## Greedy
