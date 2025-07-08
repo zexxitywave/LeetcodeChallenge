@@ -1,46 +1,46 @@
 class Solution {
     public String minWindow(String s, String t) {
-        if(s.length() == 0 || t.length() == 0) return "";
+        if (s.length() == 0 || t.length() == 0) return "";
 
         HashMap<Character, Integer> tChar = new HashMap<>();
-        for(int i = 0; i < t.length(); i++){
-            char c = t.charAt(i);
-            if(tChar.containsKey(c)){
-                tChar.put(c, tChar.get(c)+ 1);
-            }else{
-                tChar.put(c, 1);
-            }
+        for (int k = 0; k < t.length(); k++) {
+            char c = t.charAt(k);
+            tChar.put(c, tChar.getOrDefault(c, 0) + 1);
         }
 
-        HashMap<Character, Integer> window = new HashMap<>();
-        int have = 0, need = tChar.size();
-        int left = 0;
-        int right = 0;
-        int minLength = Integer.MAX_VALUE;
-        int minLeft = 0;
+        int left = 0, right = 0;
+        int start = 0; 
+        int required = tChar.size();
+        int formed = 0;
+        int minLen = Integer.MAX_VALUE;
 
-        while( right < s.length()){
+        HashMap<Character, Integer> windowCount = new HashMap<>();
+
+        while (right < s.length()) {
             char c = s.charAt(right);
-            window.put(c, window.getOrDefault(c,0) + 1);
-            if(tChar.containsKey(c) && window.get(c).intValue() == tChar.get(c).intValue()){
-                have++;
+            windowCount.put(c, windowCount.getOrDefault(c, 0) + 1);
+
+            if (tChar.containsKey(c) && windowCount.get(c).intValue() == tChar.get(c).intValue()) {
+                formed++;
             }
 
-            while(have == need){
-                if((right - left + 1)< minLength){
-                    minLength = right - left + 1;
-                    minLeft = left;
+            while (left <= right && formed == required) {
+                if (right - left + 1 < minLen) {
+                    minLen = right - left + 1;
+                    start = left;
                 }
 
-                char lChar = s.charAt(left);
-                window.put(lChar, window.get(lChar) - 1);
-                if(tChar.containsKey(lChar) && window.get(lChar) < tChar.get(lChar)){
-                    have--;
+                char leftChar = s.charAt(left);
+                windowCount.put(leftChar, windowCount.get(leftChar) - 1);
+                if (tChar.containsKey(leftChar) && windowCount.get(leftChar) < tChar.get(leftChar)) {
+                    formed--;
                 }
                 left++;
             }
+
             right++;
         }
-        return minLength == Integer.MAX_VALUE ? "": s.substring(minLeft, minLeft + minLength);
+
+        return minLen == Integer.MAX_VALUE ? "" : s.substring(start, start + minLen);
     }
 }
