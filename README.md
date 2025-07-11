@@ -320,6 +320,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0224-basic-calculator) |
@@ -335,6 +336,7 @@
 | [0110-balanced-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
@@ -349,6 +351,7 @@
 | [0110-balanced-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
@@ -379,6 +382,7 @@
 | [0110-balanced-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
