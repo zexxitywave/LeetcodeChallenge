@@ -31,6 +31,7 @@
 | [0120-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -283,6 +284,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
