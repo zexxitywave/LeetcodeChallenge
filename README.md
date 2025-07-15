@@ -133,6 +133,7 @@
 | [0022-generate-parentheses](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0076-minimum-window-substring) |
@@ -177,6 +178,7 @@
 | [0009-palindrome-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -238,6 +240,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
