@@ -289,6 +289,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -351,6 +352,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
@@ -368,6 +370,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
@@ -422,6 +425,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
@@ -432,6 +436,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
@@ -496,4 +501,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0149-max-points-on-a-line) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
