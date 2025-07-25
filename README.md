@@ -359,6 +359,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -416,6 +418,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -438,6 +441,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
