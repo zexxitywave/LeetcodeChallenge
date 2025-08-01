@@ -21,7 +21,7 @@ class Node {
 class Solution {
     public Node cloneGraph(Node node) {
         if (node == null) return null;
-        
+             
         Map<Node, Node> visited = new HashMap<>();
         Queue<Node> queue = new LinkedList<>();
         
