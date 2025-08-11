@@ -1,31 +1,39 @@
-class Solution {
+public class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        ArrayList<Integer>[] adj = new ArrayList[numCourses];
-        int[] indegree = new int[numCourses];
-        Queue<Integer> queue = new LinkedList<>();
-
-        for(int i = 0; i< numCourses; i++){
-            adj[i] = new ArrayList<Integer>();
+        List<List<Integer>> graph = new ArrayList<>();
+        for (int i = 0; i < numCourses; i++) {
+            graph.add(new ArrayList<>());
         }
-        for(int[]x: prerequisites){
-            adj[x[1]].add(x[0]);
-            indegree[x[0]]++;
+        
+        // Build adjacency list
+        for (int[] pre : prerequisites) {
+            graph.get(pre[1]).add(pre[0]);
         }
-        for(int i = 0; i < numCourses; i++){
-            if(indegree[i]== 0){
-                queue.add(i);
+        
+        int[] visited = new int[numCourses]; 
+        // 0 = unvisited, 1 = visiting, 2 = visited
+        
+        for (int i = 0; i < numCourses; i++) {
+            if (hasCycle(graph, visited, i)) {
+                return false;
             }
         }
-        int count = 0;
-        while(!queue.isEmpty()){
-            int c = queue.poll();
-            count++;
-            for(int j: adj[c]){
-                if(--indegree[j]== 0){
-                    queue.add(j);
-                }
+        return true;
+    }
+    
+    private boolean hasCycle(List<List<Integer>> graph, int[] visited, int course) {
+        if (visited[course] == 1) return true;  // Found a cycle
+        if (visited[course] == 2) return false; // Already checked, no cycle
+        
+        visited[course] = 1; // Mark as visiting
+        
+        for (int next : graph.get(course)) {
+            if (hasCycle(graph, visited, next)) {
+                return true;
             }
         }
-        return count == numCourses;
+        
+        visited[course] = 2; // Mark as fully visited
+        return false;
     }
 }
