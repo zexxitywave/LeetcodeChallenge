@@ -162,6 +162,7 @@
 | [2580-circular-sentence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3451-string-compression-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3451-string-compression-iii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -344,6 +346,7 @@
 | [0412-fizz-buzz](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String Matching
 |  |
 | ------- |
@@ -543,4 +546,9 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
