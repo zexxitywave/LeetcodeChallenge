@@ -304,6 +304,7 @@
 | [0146-lru-cache](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -372,6 +373,7 @@
 | [0155-min-stack](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0224-basic-calculator) |
+| [0225-implement-stack-using-queues](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
@@ -486,6 +488,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
