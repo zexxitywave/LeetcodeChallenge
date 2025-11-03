@@ -1,44 +1,61 @@
-class Pair {
-    int timestamp;
-    String val;
+class TimeStampedValue {
+    public int timestamp;
+    public String value;
 
-    Pair(int timestamp, String val) {
+    public TimeStampedValue(int timestamp, String value){
         this.timestamp = timestamp;
-        this.val = val;
+        this.value = value;
     }
 }
 
 class TimeMap {
-
-    private HashMap<String , String> hashMap;
-    private LinkedList<Integer> list;
+    Map<String, ArrayList<TimeStampedValue>> entriesByKey;
 
     public TimeMap() {
-        hashMap = new HashMap<>();
-        list = new LinkedList<>();
+        //Constructor to initialize the TimeMap Object
+        entriesByKey = new HashMap<>();
     }
-
+    
     public void set(String key, String value, int timestamp) {
-        hashMap.put(timestamp + key , value);
-        list.add(timestamp);
+        //Implementation for storing the value at specific timestamp
+        if(!entriesByKey.containsKey(key)){
+            entriesByKey.put(key, new ArrayList<>());
+        }
+        ArrayList<TimeStampedValue> timeStampedValues = entriesByKey.get(key);
+        timeStampedValues.add(new TimeStampedValue(timestamp, value));
+    }
+    
+    public String get(String key, int timestamp) {
+        if(!entriesByKey.containsKey(key)) return "";
+
+        ArrayList<TimeStampedValue> timeStampedValues = entriesByKey.get(key);
+        Optional<TimeStampedValue> timeStamp = binarySearchTimestamp(timeStampedValues, timestamp);
+
+        if(timeStamp.isEmpty()){
+            return "";
+        }
+        return timeStamp.get().value;
     }
 
-    public String get(String key, int timestamp) {
-        if (hashMap.containsKey(timestamp+key)) {
-            return hashMap.get(timestamp+key);
-        }else {
-            int length = list.size()-1;
-            boolean cond = false;
-            while (length >= 0 && !cond) {
-                String str = list.get(length)+ key;
-                cond = timestamp > list.get(length) && hashMap.containsKey(str);
-                if (cond) {
-                    return hashMap.get(str);
+    private Optional<TimeStampedValue> binarySearchTimestamp(ArrayList<TimeStampedValue> arr, int target){
+            int left = 0, right = arr.size() - 1;
+            int matchIndex = -1;
+
+            while(left <= right){
+                int mid = left + (right - left)/2;
+                TimeStampedValue cur = arr.get(mid);
+
+                if(cur.timestamp <= target){
+                    matchIndex = mid;
+                    left = mid + 1;
+                }else{
+                    right = mid - 1;
                 }
-                length--;
             }
+        if(matchIndex == -1){
+            return Optional.empty();
         }
-        return "";
+        return Optional.of(arr.get(matchIndex));
     }
 }
 
