@@ -1,5 +1,6 @@
 class Solution {
     private int findTopXSum(Map<Integer, Integer> map, int x){
+        //Min-Heap
         PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> (a[0] == b[0])? a[1] - b[1]: a[0] - b[0]);
 
         for(Map.Entry<Integer, Integer> entry: map.entrySet()){
@@ -25,6 +26,7 @@ class Solution {
 
         int i = 0, j = 0;
 
+        //Sliding Window
         while(j < n){
             map.put(nums[j], map.getOrDefault(nums[j], 0) + 1);
             if(j - i + 1 == k){
