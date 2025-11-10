@@ -1,39 +1,32 @@
-public class Solution {
+class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> graph = new ArrayList<>();
-        for (int i = 0; i < numCourses; i++) {
+        int[] inDegree = new int[numCourses];
+        for(int i = 0; i < numCourses; i++){
             graph.add(new ArrayList<>());
         }
-        
-        // Build adjacency list
-        for (int[] pre : prerequisites) {
+
+        for(int[] pre : prerequisites){
             graph.get(pre[1]).add(pre[0]);
+            inDegree[pre[0]]++;
         }
-        
-        int[] visited = new int[numCourses]; 
-        // 0 = unvisited, 1 = visiting, 2 = visited
-        
-        for (int i = 0; i < numCourses; i++) {
-            if (hasCycle(graph, visited, i)) {
-                return false;
+
+        Queue<Integer> queue = new LinkedList<>();
+        for(int i = 0; i < numCourses; i++){
+            if(inDegree[i] == 0){
+                queue.offer(i);
             }
         }
-        return true;
-    }
-    
-    private boolean hasCycle(List<List<Integer>> graph, int[] visited, int course) {
-        if (visited[course] == 1) return true;  // Found a cycle
-        if (visited[course] == 2) return false; // Already checked, no cycle
-        
-        visited[course] = 1; // Mark as visiting
-        
-        for (int next : graph.get(course)) {
-            if (hasCycle(graph, visited, next)) {
-                return true;
+
+        int count = 0;
+        while (!queue.isEmpty()){
+            int curr = queue.poll();
+            count++;
+            for(int next : graph.get(curr)){
+                inDegree[next]--;
+                if(inDegree[next] == 0) queue.offer(next);
             }
         }
-        
-        visited[course] = 2; // Mark as fully visited
-        return false;
+        return count == numCourses;
     }
 }
