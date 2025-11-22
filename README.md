@@ -49,6 +49,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
@@ -186,6 +187,7 @@
 | [0120-triangle](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0322-coin-change) |
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
@@ -359,6 +361,7 @@
 | [0079-word-search](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0289-game-of-life) |
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
