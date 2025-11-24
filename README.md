@@ -66,6 +66,7 @@
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1127-last-stone-weight) |
 | [1184-car-pooling](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1184-car-pooling) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -294,6 +295,7 @@
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0526-beautiful-arrangement](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0526-beautiful-arrangement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Memoization
