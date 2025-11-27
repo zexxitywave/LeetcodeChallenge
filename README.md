@@ -73,6 +73,7 @@
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
@@ -203,6 +204,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1013-fibonacci-number) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | [0741-cherry-pickup](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0741-cherry-pickup) |
 | [0898-transpose-matrix](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0898-transpose-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1559-cherry-pickup-ii) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
