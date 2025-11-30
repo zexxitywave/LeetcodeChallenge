@@ -74,6 +74,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2227-sum-of-subarray-ranges](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2227-sum-of-subarray-ranges) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Two Pointers
 |  |
@@ -230,6 +231,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
