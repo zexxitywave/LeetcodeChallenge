@@ -289,6 +289,7 @@
 | [0162-find-peak-element](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0268-missing-number) |
+| [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0300-longest-increasing-subsequence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
@@ -440,6 +441,7 @@
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -464,6 +466,7 @@
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -510,6 +513,7 @@
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -519,6 +523,7 @@
 | [0098-validate-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0173-binary-search-tree-iterator) |
+| [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Backtracking
 |  |
