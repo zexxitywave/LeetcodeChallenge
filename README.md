@@ -444,6 +444,7 @@
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Depth-First Search
@@ -471,6 +472,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
@@ -519,6 +521,7 @@
 | [0257-binary-tree-paths](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0257-binary-tree-paths) |
 | [0270-closest-binary-search-tree-value](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0270-closest-binary-search-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 ## Binary Search Tree
