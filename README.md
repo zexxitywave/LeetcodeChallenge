@@ -398,6 +398,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0812-rotate-string) |
 ## Union Find
 |  |
@@ -447,6 +448,7 @@
 | [0337-house-robber-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
@@ -477,6 +479,7 @@
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
@@ -528,6 +531,7 @@
 | [0337-house-robber-iii](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0337-house-robber-iii) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0938-range-sum-of-bst) |
@@ -628,4 +632,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
