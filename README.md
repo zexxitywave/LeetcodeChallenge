@@ -233,6 +233,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1925-count-square-sum-triples](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1925-count-square-sum-triples) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -637,4 +638,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0572-subtree-of-another-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
