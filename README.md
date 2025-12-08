@@ -230,6 +230,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1013-fibonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2704-maximum-difference-by-remapping-a-digit) |
