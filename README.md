@@ -139,6 +139,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
+| [0433-minimum-genetic-mutation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0433-minimum-genetic-mutation) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -171,6 +172,7 @@
 | [0389-find-the-difference](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0389-find-the-difference) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0412-fizz-buzz) |
+| [0433-minimum-genetic-mutation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0433-minimum-genetic-mutation) |
 | [0647-palindromic-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
@@ -506,6 +508,7 @@
 | [0226-invert-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0399-evaluate-division) |
+| [0433-minimum-genetic-mutation](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
