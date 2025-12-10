@@ -95,6 +95,7 @@
 | [0344-reverse-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0658-find-k-closest-elements) |
+| [1768-merge-strings-alternately](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [0812-rotate-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1023-time-based-key-value-store) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1768-merge-strings-alternately](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1768-merge-strings-alternately) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2580-circular-sentence](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ManviRankawat/LeetcodeChallenge/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
